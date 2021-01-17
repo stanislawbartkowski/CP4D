@@ -16,3 +16,4 @@ CP4D experience (very limited): https://www.ibm.com/cloud/paks/experiences/cloud
 | Create and configure private image registry | https://github.com/stanislawbartkowski/CP4D/wiki/Private-registry
 | OpenShift useful commands | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-useful-commands
 | OpenShift dynamic NFS storage provider | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-NFS-provisioner
+| OpenShift and docker.io credentials | https://github.com/stanislawbartkowski/CP4D/wiki/Docker.io-credentials
