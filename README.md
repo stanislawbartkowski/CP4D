@@ -1,6 +1,6 @@
 # IBM CP4D
 
-This project contains information and experience related to IBM Cloud Pak for Data (CP4D). All infomations are collected in Wiki pages.
+This project contains information and experience related to IBM Cloud Pak for Data (CP4D) and RedHat OpenShift. All infomations are collected in Wiki pages.
 
 https://github.com/stanislawbartkowski/CP4D/wiki
 
