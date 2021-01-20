@@ -17,4 +17,4 @@ CP4D experience (very limited): https://www.ibm.com/cloud/paks/experiences/cloud
 | OpenShift useful commands | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-useful-commands
 | OpenShift dynamic NFS storage provider | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-NFS-provisioner
 | OpenShift and docker.io credentials | https://github.com/stanislawbartkowski/CP4D/wiki/Docker.io-credentials
-| Power of IBM DB2 BigSQL in CP4D | https://github.com/stanislawbartkowski/CP4D/wiki/CP4D-and-IBM-DB2-BigSQL
+| Combined power of IBM DB2 BigSQL and Hadoop in CP4D | https://github.com/stanislawbartkowski/CP4D/wiki/CP4D-and-IBM-DB2-BigSQL
