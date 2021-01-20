@@ -1,0 +1,25 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: write-box
+  labels : {
+     app: ceph-test
+  }
+
+spec:
+  containers:
+  - name: write-box
+    image: docker.io/busybox
+    command:
+      - "/bin/sh"
+    args:
+      - "-c"
+      - "echo 'Hello world!' >/mnt/SUCCESS && exit 0 || exit 1"
+    volumeMounts:
+      - name: rbd-pvc
+        mountPath: "/mnt"
+  restartPolicy: "Never"
+  volumes:
+    - name: rbd-pvc
+      persistentVolumeClaim:
+        claimName: rbd-pvc

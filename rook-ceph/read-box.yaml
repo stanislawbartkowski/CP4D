@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: read-box
+  labels : {
+     app: ceph-test
+  }
+spec:
+  containers:
+  - name: read-box
+    image:  docker.io/busybox         
+    command: ["sleep", "60000"]
+    volumeMounts:
+    - name: rbd-pvc
+      mountPath: /mnt
+      readOnly: false
+  volumes:
+  - name: rbd-pvc
+    persistentVolumeClaim:
+      claimName: rbd-pvc
