@@ -4,7 +4,7 @@ This project contains information and experience related to IBM Cloud Pak for Da
 
 https://github.com/stanislawbartkowski/CP4D/wiki
 
-Source of truth: https://www.ibm.com/support/knowledgecenter/en/SSQNUZ_3.0.1/cpd/overview/welcome.html
+Source of truth: https://www.ibm.com/support/knowledgecenter/en/SSQNUZ_3.5.0/cpd/overview/welcome.html
 
 CP4D experience (very limited): https://www.ibm.com/cloud/paks/experiences/cloud-pak-for-data
 
@@ -17,3 +17,4 @@ CP4D experience (very limited): https://www.ibm.com/cloud/paks/experiences/cloud
 | OpenShift useful commands | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-useful-commands
 | OpenShift dynamic NFS storage provider | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-NFS-provisioner
 | OpenShift and docker.io credentials | https://github.com/stanislawbartkowski/CP4D/wiki/Docker.io-credentials
+| Power of IBM DB2 BigSQL in CP4D | CP4D and IBM DB2 BigSQL
