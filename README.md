@@ -20,3 +20,4 @@ CP4D experience (very limited): https://www.ibm.com/cloud/paks/experiences/cloud
 | Combined power of IBM DB2 BigSQL and Hadoop in CP4D | https://github.com/stanislawbartkowski/CP4D/wiki/CP4D-and-IBM-DB2-BigSQL
 | OpenShift and DB2 | https://github.com/stanislawbartkowski/CP4D/wiki/DB2-OpenShift
 | OpenShift and Rook/Ceph | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-Rook-Ceph
+| OpenShift and Oracle | https://github.com/stanislawbartkowski/CP4D/wiki/Oracle-and-OpenShift
