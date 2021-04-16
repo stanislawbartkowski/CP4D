@@ -1,0 +1,19 @@
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+   name: network-exception
+spec:
+   podSelector:
+      matchLabels:
+        deployment: sample-share
+   ingress:
+   - from:
+     - namespaceSelector:
+         matchLabels:
+           name : test
+       podSelector:
+         matchLabels:
+           run: ubi8
+         ports:
+           - port: 80
+             protocol: TCP
