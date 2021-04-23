@@ -21,3 +21,4 @@ CP4D experience (very limited): https://www.ibm.com/cloud/paks/experiences/cloud
 | OpenShift and DB2 | https://github.com/stanislawbartkowski/CP4D/wiki/DB2-OpenShift
 | OpenShift and Rook/Ceph | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-Rook-Ceph
 | OpenShift and Oracle | https://github.com/stanislawbartkowski/CP4D/wiki/Oracle-and-OpenShift
+| OpenShift, DB2 and Help | [https://github.com/stanislawbartkowski/CP4D/wiki/IBM-DB2-Warehouse,-OpenShift,-Helm-2]
