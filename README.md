@@ -22,3 +22,4 @@ CP4D experience (very limited): https://www.ibm.com/cloud/paks/experiences/cloud
 | OpenShift and Rook/Ceph | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-Rook-Ceph
 | OpenShift and Oracle | https://github.com/stanislawbartkowski/CP4D/wiki/Oracle-and-OpenShift
 | OpenShift, DB2 and Helm 2 | [https://github.com/stanislawbartkowski/CP4D/wiki/IBM-DB2-Warehouse,-OpenShift,-Helm-2]
+| OpenShift and MongoDB Percona operator | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-and-MongoDB
