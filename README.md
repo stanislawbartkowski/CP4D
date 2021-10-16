@@ -26,4 +26,4 @@ CP4D experience (very limited): https://www.ibm.com/cloud/paks/experiences/cloud
 | OpenShift and community JupyterLab operator | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-and-JupyterLab
 | OpenShift and MariaDB | https://github.com/stanislawbartkowski/CP4D/wiki/MariaDB-and-OpenShift
 | OpenShift AD integration | https://github.com/stanislawbartkowski/CP4D/wiki/OpenShift-AD-authentication-and-group-membership
-| Cloud Pak for Data AD integration | | 
+| Cloud Pak for Data AD integration | https://github.com/stanislawbartkowski/CP4D/wiki/Cloud-Pak-for-Data-AD-integration | 
